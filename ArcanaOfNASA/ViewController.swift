@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let apiKeyNASA = "SiDrCrk2IEN2qgbiHwhe4nG3C1Gx5TNEOVhZXGyx"
 
     override func viewDidLoad() {
         super.viewDidLoad()
